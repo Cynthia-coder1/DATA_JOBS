@@ -8,8 +8,10 @@
 ### PROJECT OVERVIEW
 This data analysis provides insight into data-jobs over the past few years. By analyzing the data, we gain deeper understanding of the most demanding Data-Jobs .
 
+![DATA_JOBS (2)](https://github.com/Cynthia-coder1/DATA_JOBS/assets/133775028/ec006e02-ec8b-4d72-8ef0-87893d61191c)
+
 ### DATA SOURCE 
-The dataset used for this analysis is 'Data-Jobs.xlsx' file which contains detailed information about data-jobs.
+The dataset used for this analysis is 'Data-Jobs.xlsx' file which contains detailed information about data-jobs over the past few years.
 
   ### TOOLS
 - SQL - Utilized SQL for data Querying and Manipulation.
